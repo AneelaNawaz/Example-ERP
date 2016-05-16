@@ -1,0 +1,17 @@
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\bin\Release\Example-ERP.exe.config
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\bin\Release\Goods.accdb
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\bin\Release\Example-ERP.exe
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\bin\Release\Example-ERP.pdb
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Release\Example_ERP.Form1.resources
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Release\Example_ERP.Properties.Resources.resources
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Release\Example-ERP.csproj.GenerateResource.Cache
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Release\Example-ERP.exe
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Release\Example-ERP.pdb
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Release\Example-ERP.csprojResolveAssemblyReference.cache
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Release\Example_ERP.ModulesInfo.resources
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Release\Example_ERP.Product_Details.resources
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Release\Example_ERP.RecordInsertUpdate.resources
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Release\Example_ERP.SerchForm.resources
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\bin\Release\Example-ERP.exe.config
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Release\Example-ERP.exe
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Release\Example-ERP.pdb

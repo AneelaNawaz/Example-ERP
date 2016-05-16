@@ -1,0 +1,23 @@
+c:\users\aneela nawaz\documents\visual studio 2010\Projects\Example-ERP\Example-ERP\bin\Debug\Example-ERP.exe
+c:\users\aneela nawaz\documents\visual studio 2010\Projects\Example-ERP\Example-ERP\bin\Debug\Example-ERP.pdb
+c:\users\aneela nawaz\documents\visual studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Debug\Example_ERP.Form1.resources
+c:\users\aneela nawaz\documents\visual studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Debug\Example_ERP.Properties.Resources.resources
+c:\users\aneela nawaz\documents\visual studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Debug\Example-ERP.csproj.GenerateResource.Cache
+c:\users\aneela nawaz\documents\visual studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Debug\Example-ERP.exe
+c:\users\aneela nawaz\documents\visual studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Debug\Example-ERP.pdb
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\obj\x86\Debug\Example-ERP.csprojResolveAssemblyReference.cache
+C:\Users\Aneela Nawaz\Documents\Visual Studio 2010\Projects\Example-ERP\Example-ERP\bin\Debug\Example-ERP.exe.config
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\bin\Debug\Goods.accdb
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\bin\Debug\Example-ERP.exe.config
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\bin\Debug\Example-ERP.exe
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\bin\Debug\Example-ERP.pdb
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Debug\Example-ERP.csprojResolveAssemblyReference.cache
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Debug\Example_ERP.Form1.resources
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Debug\Example_ERP.ModulesInfo.resources
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Debug\Example_ERP.Product_Details.resources
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Debug\Example_ERP.Properties.Resources.resources
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Debug\Example_ERP.RecordInsertUpdate.resources
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Debug\Example_ERP.SerchForm.resources
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Debug\Example-ERP.csproj.GenerateResource.Cache
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Debug\Example-ERP.exe
+C:\Users\Aneela\Desktop\Example-ERP\Example-ERP\obj\x86\Debug\Example-ERP.pdb
